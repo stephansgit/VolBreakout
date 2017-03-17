@@ -1,0 +1,3 @@
+- Das Make versteht noch nicht, dass es IMMER updaten muss. --> make clean so umgestalten, dass SetupData/EOD-Data verschoben wird
+- Make für die anderen Teile der Webseite machen
+- im VolBreakout das Ausfuehrdatum aendern - nimm den Zeitstempel der EOD-Data statt Zeitpunkt des Generierens des VolBreakout.Rmd
